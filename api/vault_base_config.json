@@ -10,8 +10,9 @@
             "vaultAddress": "",
             "vaultType": 0,
             "type": 0,
+            "chainKey": "ASTR_MAINNET",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
-            "fromSource": "Starlay",
+            "dappName": "Starlay",
             "abiType": "AVaultForStarlay",
             "swapLink": "https://starlay.finance/app",
             "vault": {
@@ -32,8 +33,9 @@
         "contract": [
           {
             "type": 1,
+            "chainKey": "ASTR_MAINNET",
             "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
-            "fromSource": "Arthswap",
+            "dappName": "Arthswap",
             "abiType": "AVaultForArthswapFarm",
             "swapLink": "https://app.arthswap.org/#/add/",
             "vault": {
