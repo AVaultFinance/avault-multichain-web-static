@@ -1,5 +1,5 @@
 {
-  "Astar": {
+  "ASTR_MAINNET": {
     "status": 1,
     "chain": "Astar",
     "dapp": [
@@ -63,14 +63,14 @@
       }
     ]
   },
-  "Ethereum": {
+  "ETH_MAINNET": {
     "status": 1,
     "chain": "Ethereum",
     "dapp": [
       "AAVE"
     ]
   },
-  "Arbitrum": {
+  "ARBITRUM_MAINNET": {
     "status": 1,
     "chain": "Arbitrum",
     "dapp": [
