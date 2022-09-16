@@ -1,31 +1,80 @@
-[
-  {
+{
+  "Astar": {
     "status": 1,
     "chain": "Astar",
     "dapp": [
       {
-        "dappName": "AAVE",
+        "dappName": "Starlay",
         "contract": [
           {
             "vaultAddress": "",
-            "vaultType": 0
+            "vaultType": 0,
+            "type": 0,
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "fromSource": "Starlay",
+            "abiType": "AVaultForStarlay",
+            "swapLink": "https://starlay.finance/app",
+            "vault": {
+              "vaultSymbol": "asASTR",
+              "symbol": "ASTR",
+              "name": "Avault Starlay ASTR",
+              "wantAddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          }
+        ]
+      },
+      {
+        "dappName": "Arthswap",
+        "contract": [
+          {
+            "type": 1,
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "fromSource": "Arthswap",
+            "abiType": "AVaultForArthswapFarm",
+            "swapLink": "https://app.arthswap.org/#/add/",
+            "vault": {
+              "symbol": "BAI-USDC LP",
+              "vaultSymbol": "aBaiUsdc",
+              "name": "avault Arthswap BAI-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
           }
         ]
       }
     ]
   },
-  {
+  "Ethereum": {
     "status": 1,
     "chain": "Ethereum",
     "dapp": [
       "AAVE"
     ]
   },
-  {
+  "Arbitrum": {
     "status": 1,
     "chain": "Arbitrum",
     "dapp": [
       "AAVE"
     ]
   }
-]
+}
