@@ -60,6 +60,36 @@
               "quoteTokenDecimals": 6,
               "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
             }
+          },
+          {
+            "type": 1,
+            "chainKey": "ASTR_MAINNET",
+            "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
+            "dappName": "Arthswap",
+            "abiType": "AVaultForArthswapFarm",
+            "swapLink": "https://app.arthswap.org/#/add/",
+            "vault": {
+              "symbol": "DAI-USDC LP",
+              "vaultSymbol": "aDaiUsdc",
+              "name": "avault Arthswap DAI-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "tokenDecimals": 18,
+              "token": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
           }
         ]
       }
