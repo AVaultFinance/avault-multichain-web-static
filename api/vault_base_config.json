@@ -7,7 +7,6 @@
         "dappName": "Starlay",
         "contract": [
           {
-            "vaultAddress": "",
             "vaultType": 0,
             "type": 0,
             "chainKey": "ASTR_MAINNET",
@@ -24,6 +23,44 @@
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
+            }
+          },
+          {
+            "vaultType": 0,
+            "type": 0,
+            "chainKey": "ASTR_MAINNET",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappName": "Starlay",
+            "abiType": "AVaultForStarlay",
+            "swapLink": "https://starlay.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDC",
+              "symbol": "USDC",
+              "name": "Avault Starlay USDC",
+              "wantAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaultType": 0,
+            "type": 0,
+            "chainKey": "ASTR_MAINNET",
+            "contractAddress": "0x58d65c68Fb2904d9e1e185042ae76E78ff0F1980",
+            "dappName": "Starlay",
+            "abiType": "AVaultForStarlay",
+            "swapLink": "https://starlay.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDT",
+              "symbol": "USDT",
+              "name": "Avault Starlay USDT",
+              "wantAddress": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
             }
           }
         ]
