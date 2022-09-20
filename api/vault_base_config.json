@@ -7,7 +7,7 @@
         "dappName": "Starlay",
         "contract": [
           {
-            "vaultType": 0,
+            "vaultType": 1,
             "eventType": 0,
             "chainKey": "ASTR_MAINNET",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
@@ -27,7 +27,7 @@
             }
           },
           {
-            "vaultType": 0,
+            "vaultType": 1,
             "eventType": 0,
             "chainKey": "ASTR_MAINNET",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "vaultType": 0,
+            "vaultType": 1,
             "eventType": 0,
             "chainKey": "ASTR_MAINNET",
             "contractAddress": "0x58d65c68Fb2904d9e1e185042ae76E78ff0F1980",
@@ -72,7 +72,7 @@
         "dappName": "Arthswap",
         "contract": [
           {
-            "vaultType": 1,
+            "vaultType": 2,
             "eventType": 1,
             "chainKey": "ASTR_MAINNET",
             "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
@@ -104,7 +104,7 @@
             }
           },
           {
-            "vaultType": 1,
+            "vaultType": 2,
             "eventType": 1,
             "chainKey": "ASTR_MAINNET",
             "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
