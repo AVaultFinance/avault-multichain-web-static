@@ -6,6 +6,7 @@
 - dapp
 - status 0 close 1 online 2 waiting
   - vaultType: 1 stablecoin 2 single 3 lp_token
+  - eventType: 0 normal 1 active 2 addNew
 
 ```json
 [
