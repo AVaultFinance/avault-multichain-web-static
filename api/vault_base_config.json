@@ -143,13 +143,15 @@
     "status": 1,
     "chain": "Ethereum",
     "dapp": [
-      "AAVE"
+      "AAVE",
+      "Curve"
     ]
   },
   "Arbitrum": {
     "status": 1,
     "chain": "Arbitrum",
     "dapp": [
+      "GMX",
       "AAVE"
     ]
   }
