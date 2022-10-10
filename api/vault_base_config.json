@@ -143,16 +143,248 @@
     "status": 1,
     "chain": "Ethereum",
     "dapp": [
-      "AAVE",
-      "Curve"
+      {
+        "dappName": "AAVE",
+        "contract": [
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Ethereum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappName": "AAVE",
+            "abiType": "AVaultForAAVE",
+            "swapLink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDC",
+              "wantAddressSymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantAddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          },
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Ethereum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappName": "AAVE",
+            "abiType": "AVaultForAAVE",
+            "swapLink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDT",
+              "wantAddressSymbol": "USDT",
+              "name": "Avault AAVE USDT",
+              "wantAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          }
+        ]
+      },
+      {
+        "dappName": "Curve",
+        "contract": [
+          {
+            "vaultType": 2,
+            "eventType": 1,
+            "chainKey": "Ethereum",
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "dappName": "Curve",
+            "abiType": "AVaultForCurveFarm",
+            "swapLink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantAddressSymbol": "ETH-stETH LP",
+              "vaultSymbol": "aBaiUsdc",
+              "name": "avault Curve ETH-stETH LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedAddressSymbol": "ARSW",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          },
+          {
+            "vaultType": 2,
+            "eventType": 2,
+            "chainKey": "Ethereum",
+            "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
+            "dappName": "Curve",
+            "abiType": "AVaultForCurveFarm",
+            "swapLink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantAddressSymbol": "FRAX-USDC LP",
+              "vaultSymbol": "aDaiUsdc",
+              "name": "avault Curve FRAX-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedAddressSymbol": "ARSW",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "tokenDecimals": 18,
+              "token": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          },
+          {
+            "vaultType": 2,
+            "eventType": 3,
+            "chainKey": "Ethereum",
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "dappName": "Curve",
+            "abiType": "AVaultForCurveFarm",
+            "swapLink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantAddressSymbol": "MIM-3Crv LP",
+              "vaultSymbol": "aBaiUsdc",
+              "name": "avault Curve MIM-3Crv LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedAddressSymbol": "ARSW",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          }
+        ]
+      }
     ]
   },
   "Arbitrum": {
     "status": 1,
     "chain": "Arbitrum",
     "dapp": [
-      "GMX",
-      "AAVE"
+      {
+        "dappName": "GMX",
+        "contract": [
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Arbitrum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappName": "GMX",
+            "abiType": "AVaultForGMX",
+            "swapLink": "https://GMX.finance/app",
+            "vault": {
+              "vaultSymbol": "asGLP",
+              "wantAddressSymbol": "GLP",
+              "name": "Avault GMX GLP",
+              "wantAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Arbitrum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappName": "GMX",
+            "abiType": "AVaultForGMX",
+            "swapLink": "https://GMX.finance/app",
+            "vault": {
+              "vaultSymbol": "asGMX",
+              "wantAddressSymbol": "GMX",
+              "name": "Avault GMX GMX",
+              "wantAddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          }
+        ]
+      },
+      {
+        "dappName": "AAVE",
+        "contract": [
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Arbitrum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappName": "AAVE",
+            "abiType": "AVaultForAAVE",
+            "swapLink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultSymbol": "asWETH",
+              "wantAddressSymbol": "WETH",
+              "name": "Avault AAVE WETH",
+              "wantAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Arbitrum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappName": "AAVE",
+            "abiType": "AVaultForAAVE",
+            "swapLink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDC",
+              "wantAddressSymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantAddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantAddressDecimals": 18,
+              "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedAddressSymbol": "LAY",
+              "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          }
+        ]
+      }
     ]
   }
 }
