@@ -313,7 +313,7 @@
               "wantAddress": "0x74df46d231ae3797a72e6467ce59ac3a4eb7d124",
               "wantAddressDecimals": 6,
               "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "USDC",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -333,7 +333,7 @@
               "wantAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "USDC",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
@@ -355,10 +355,10 @@
               "vaultSymbol": "asWETH",
               "wantAddressSymbol": "WETH",
               "name": "Avault AAVE WETH",
-              "wantAddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantAddress": "0x765277eebeca2e31912c9946eae1021199b39c61",
               "wantAddressDecimals": 6,
               "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "USDC",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -375,10 +375,10 @@
               "vaultSymbol": "asUSDC",
               "wantAddressSymbol": "USDC",
               "name": "Avault AAVE USDC",
-              "wantAddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantAddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "USDC",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
