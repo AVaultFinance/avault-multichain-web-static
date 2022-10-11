@@ -161,7 +161,7 @@
               "wantAddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "AAVE",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
@@ -181,7 +181,7 @@
               "wantAddress": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
               "wantAddressDecimals": 6,
               "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedAddressSymbol": "LAY",
+              "earnedAddressSymbol": "AAVE",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -209,7 +209,7 @@
               "wantAddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
-              "earnedAddressSymbol": "ARSW",
+              "earnedAddressSymbol": "CRV",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 18
             },
@@ -241,7 +241,7 @@
               "wantAddress": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
-              "earnedAddressSymbol": "ARSW",
+              "earnedAddressSymbol": "CRV",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 18
             },
@@ -273,7 +273,7 @@
               "wantAddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
-              "earnedAddressSymbol": "ARSW",
+              "earnedAddressSymbol": "CRV",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 18
             },
@@ -313,7 +313,7 @@
               "wantAddress": "0x74df46d231ae3797a72e6467ce59ac3a4eb7d124",
               "wantAddressDecimals": 6,
               "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedAddressSymbol": "USDC",
+              "earnedAddressSymbol": "GMX",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -333,7 +333,7 @@
               "wantAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedAddressSymbol": "USDC",
+              "earnedAddressSymbol": "GMX",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
@@ -358,7 +358,7 @@
               "wantAddress": "0x765277eebeca2e31912c9946eae1021199b39c61",
               "wantAddressDecimals": 6,
               "earnedAddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedAddressSymbol": "USDC",
+              "earnedAddressSymbol": "AAVE",
               "AVAAddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -378,7 +378,7 @@
               "wantAddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedAddressSymbol": "USDC",
+              "earnedAddressSymbol": "AAVE",
               "AVAAddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
