@@ -1,6 +1,11 @@
 {
   "Astar": [
     {
+      "symbol": "ASTR",
+      "address": "",
+      "decimals": 18
+    },
+    {
       "symbol": "USDC",
       "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
       "decimals": 6
@@ -13,25 +18,55 @@
   ],
   "Ethereum": [
     {
+      "symbol": "ETH",
+      "address": "",
+      "decimals": 18
+    },
+    {
       "symbol": "USDC",
-      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "decimals": 6
     },
     {
-      "symbol": "WASTR",
-      "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+      "symbol": "WETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "decimals": 18
     }
   ],
   "Arbitrum": [
     {
+      "symbol": "AETH",
+      "address": "",
+      "decimals": 18
+    },
+    {
       "symbol": "USDC",
-      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "decimals": 6
     },
     {
-      "symbol": "WASTR",
-      "address": "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720",
+      "symbol": "USDT",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "decimals": 6
+    },
+    {
+      "symbol": "USDs",
+      "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
+      "decimals": 6
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+      "decimals": 18
+    },
+    {
+      "symbol": "GMX",
+      "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+      "decimals": 18
+    },
+    {
+      "symbol": "ETH",
+      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
       "decimals": 18
     }
   ]
