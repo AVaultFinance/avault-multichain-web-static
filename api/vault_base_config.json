@@ -330,7 +330,7 @@
               "vaultSymbol": "asGMX",
               "wantAddressSymbol": "GMX",
               "name": "Avault GMX GMX",
-              "wantAddress": "0x62edc0692bd897d2295872a9ffcac5425011c661",
+              "wantAddress": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
               "wantAddressDecimals": 18,
               "earnedAddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
               "earnedAddressSymbol": "GMX",
