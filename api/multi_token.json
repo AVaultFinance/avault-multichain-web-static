@@ -50,16 +50,6 @@
       "decimals": 6
     },
     {
-      "symbol": "USDs",
-      "address": "0xD74f5255D557944cf7Dd0E45FF521520002D5748",
-      "decimals": 6
-    },
-    {
-      "symbol": "WBTC",
-      "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
-      "decimals": 18
-    },
-    {
       "symbol": "GMX",
       "address": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
       "decimals": 18
