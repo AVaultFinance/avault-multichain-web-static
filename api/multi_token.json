@@ -53,11 +53,6 @@
       "symbol": "GMX",
       "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
       "decimals": 18
-    },
-    {
-      "symbol": "ETH",
-      "address": "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
-      "decimals": 18
     }
   ]
 }
