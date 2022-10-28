@@ -386,5 +386,36 @@
         ]
       }
     ]
+  },
+  "Optimism": {
+    "status": 1,
+    "chain": "Optimism",
+    "dapp": [
+      {
+        "dappName": "AAVE",
+        "contract": [
+          {
+            "vaultType": 1,
+            "eventType": 0,
+            "chainKey": "Optimism",
+            "contractAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "dappName": "AAVE",
+            "abiType": "AVaultForAAVE",
+            "swapLink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultSymbol": "asUSDC",
+              "wantAddressSymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "wantAddressDecimals": 6,
+              "earnedAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "earnedAddressSymbol": "AAVE",
+              "AVAAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "decimals": 6
+            }
+          }
+        ]
+      }
+    ]
   }
 }
