@@ -1,5 +1,5 @@
 {
-  "Astar": [
+  "astar": [
     {
       "symbol": "ASTR",
       "address": "",
@@ -16,7 +16,7 @@
       "decimals": 18
     }
   ],
-  "Ethereum": [
+  "ethereum": [
     {
       "symbol": "ETH",
       "address": "",
@@ -33,7 +33,7 @@
       "decimals": 18
     }
   ],
-  "Arbitrum": [
+  "arbitrum": [
     {
       "symbol": "AETH",
       "address": "",
@@ -50,12 +50,12 @@
       "decimals": 6
     },
     {
-      "symbol": "GMX",
+      "symbol": "gmx",
       "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
       "decimals": 18
     }
   ],
-  "Optimism": [
+  "optimism": [
     {
       "symbol": "USDC",
       "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",

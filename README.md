@@ -27,12 +27,12 @@
   },
   {
     "status": 1,
-    "chain": "Ethereum",
+    "chain": "ethereum",
     "dapp": ["AAVE"]
   },
   {
     "status": 1,
-    "chain": "Arbitrum",
+    "chain": "arbitrum",
     "dapp": ["AAVE"]
   }
 ]
