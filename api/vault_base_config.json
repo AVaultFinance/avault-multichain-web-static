@@ -296,15 +296,15 @@
     "chain": "arbitrum",
     "dapp": [
       {
-        "dappname": "gmx",
+        "dappname": "GMX",
         "contract": [
           {
             "vaulttype": 1,
             "eventtype": 0,
             "chainkey": "arbitrum",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
-            "dappname": "gmx",
-            "abitype": "AVaultForgmx",
+            "dappname": "GMX",
+            "abitype": "AVaultForGMX",
             "swaplink": "https://gmx.finance/app",
             "vault": {
               "vaultsymbol": "asGLP",
@@ -313,7 +313,7 @@
               "wantaddress": "0x74df46d231ae3797a72e6467ce59ac3a4eb7d124",
               "wantaddressdecimals": 6,
               "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
-              "earnedaddresssymbol": "gmx",
+              "earnedaddresssymbol": "GMX",
               "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
               "decimals": 6
             }
@@ -323,17 +323,17 @@
             "eventtype": 0,
             "chainkey": "arbitrum",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
-            "dappname": "gmx",
-            "abitype": "AVaultForgmx",
+            "dappname": "GMX",
+            "abitype": "AVaultForGMX",
             "swaplink": "https://gmx.finance/app",
             "vault": {
-              "vaultsymbol": "asgmx",
-              "wantaddresssymbol": "gmx",
-              "name": "Avault gmx gmx",
+              "vaultsymbol": "asGMX",
+              "wantaddresssymbol": "GMX",
+              "name": "Avault gmx GMX",
               "wantaddress": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
               "wantaddressdecimals": 18,
               "earnedaddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
-              "earnedaddresssymbol": "gmx",
+              "earnedaddresssymbol": "GMX",
               "avaaddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
               "decimals": 18
             }
