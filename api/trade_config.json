@@ -1,7 +1,7 @@
 {
   "swap": {
-    "1InchSwap": {
-      "name": "1Inch Swap",
+    "1inchswap": {
+      "name": "1inch swap",
       "percent": "0",
       "base_fee": "0.001",
       "min_fee": "0"
@@ -10,14 +10,14 @@
   "bridge": {
     "multi": {
       "key": "multi",
-      "name": "Multichain Bridge",
+      "name": "multichain bridge",
       "percent": "0.0001",
       "base_fee": "0",
       "min_fee": "5"
     },
     "hop": {
       "key": "hop",
-      "name": "Hop Exchange",
+      "name": "hop exchange",
       "percent": "0.001",
       "base_fee": "5",
       "min_fee": "0"
