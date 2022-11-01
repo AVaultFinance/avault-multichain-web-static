@@ -12,7 +12,7 @@
             "chainkey": "astar",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
             "dappname": "Starlay",
-            "abiType": "AVaultForStarlay",
+            "abitype": "AVaultForStarlay",
             "swaplink": "https://starlay.finance/app",
             "vault": {
               "vaultsymbol": "asASTR",
@@ -32,7 +32,7 @@
             "chainkey": "astar",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
             "dappname": "Starlay",
-            "abiType": "AVaultForStarlay",
+            "abitype": "AVaultForStarlay",
             "swaplink": "https://starlay.finance/app",
             "vault": {
               "vaultsymbol": "asUSDC",
@@ -52,7 +52,7 @@
             "chainkey": "astar",
             "contractAddress": "0x58d65c68Fb2904d9e1e185042ae76E78ff0F1980",
             "dappname": "Starlay",
-            "abiType": "AVaultForStarlay",
+            "abitype": "AVaultForStarlay",
             "swaplink": "https://starlay.finance/app",
             "vault": {
               "vaultsymbol": "asUSDT",
@@ -77,7 +77,7 @@
             "chainkey": "astar",
             "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
             "dappname": "Arthswap",
-            "abiType": "AVaultForArthswapFarm",
+            "abitype": "AVaultForArthswapFarm",
             "swaplink": "https://app.arthswap.org/#/add/",
             "vault": {
               "wantaddresssymbol": "BAI-USDC LP",
@@ -109,7 +109,7 @@
             "chainkey": "astar",
             "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
             "dappname": "Arthswap",
-            "abiType": "AVaultForArthswapFarm",
+            "abitype": "AVaultForArthswapFarm",
             "swaplink": "https://app.arthswap.org/#/add/",
             "vault": {
               "wantaddresssymbol": "DAI-USDC LP",
@@ -152,7 +152,7 @@
             "chainkey": "ethereum",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
             "dappname": "AAVE",
-            "abiType": "AVaultForAAVE",
+            "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "asUSDC",
@@ -172,7 +172,7 @@
             "chainkey": "ethereum",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
             "dappname": "AAVE",
-            "abiType": "AVaultForAAVE",
+            "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "asUSDT",
@@ -197,7 +197,7 @@
             "chainkey": "ethereum",
             "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
             "dappname": "Curve",
-            "abiType": "AVaultForCurveFarm",
+            "abitype": "AVaultForCurveFarm",
             "swaplink": "https://app.Curve.org/#/add/",
             "vault": {
               "wantaddresssymbol": "ETH-stETH LP",
@@ -229,7 +229,7 @@
             "chainkey": "ethereum",
             "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
             "dappname": "Curve",
-            "abiType": "AVaultForCurveFarm",
+            "abitype": "AVaultForCurveFarm",
             "swaplink": "https://app.Curve.org/#/add/",
             "vault": {
               "wantaddresssymbol": "FRAX-USDC LP",
@@ -261,7 +261,7 @@
             "chainkey": "ethereum",
             "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
             "dappname": "Curve",
-            "abiType": "AVaultForCurveFarm",
+            "abitype": "AVaultForCurveFarm",
             "swaplink": "https://app.Curve.org/#/add/",
             "vault": {
               "wantaddresssymbol": "MIM-3Crv LP",
@@ -304,7 +304,7 @@
             "chainkey": "arbitrum",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
             "dappname": "gmx",
-            "abiType": "AVaultForgmx",
+            "abitype": "AVaultForgmx",
             "swaplink": "https://gmx.finance/app",
             "vault": {
               "vaultsymbol": "asGLP",
@@ -324,7 +324,7 @@
             "chainkey": "arbitrum",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
             "dappname": "gmx",
-            "abiType": "AVaultForgmx",
+            "abitype": "AVaultForgmx",
             "swaplink": "https://gmx.finance/app",
             "vault": {
               "vaultsymbol": "asgmx",
@@ -349,7 +349,7 @@
             "chainkey": "arbitrum",
             "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
             "dappname": "AAVE",
-            "abiType": "AVaultForAAVE",
+            "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "asWETH",
@@ -369,7 +369,7 @@
             "chainkey": "arbitrum",
             "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
             "dappname": "AAVE",
-            "abiType": "AVaultForAAVE",
+            "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "asUSDC",
@@ -400,7 +400,7 @@
             "chainkey": "optimism",
             "contractAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
             "dappname": "AAVE",
-            "abiType": "AVaultForAAVE",
+            "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "asUSDC",
