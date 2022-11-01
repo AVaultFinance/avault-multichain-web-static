@@ -5,8 +5,8 @@
 - chain
 - dapp
 - status 0 close 1 online 2 waiting
-  - vaultType: 1 stablecoin 2 single 3 lp_token
-  - eventType: 0 normal 1 active 2 addNew
+  - vaulttype: 1 stablecoin 2 single 3 lp_token
+  - eventtype: 0 normal 1 active 2 addNew
 
 ```json
 [
@@ -15,11 +15,11 @@
     "chain": "Astar",
     "dapp": [
       {
-        "dappName": "AAVE",
+        "dappname": "AAVE",
         "contract": [
           {
             "vaultAddress": "",
-            "vaultType": 0
+            "vaulttype": 0
           }
         ]
       }
