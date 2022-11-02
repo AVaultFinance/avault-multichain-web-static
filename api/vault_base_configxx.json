@@ -1,0 +1,421 @@
+{
+  "astar": {
+    "status": 1,
+    "chain": "astar",
+    "dapp": [
+      {
+        "dappname": "Starlay",
+        "contract": [
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "astar",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappname": "Starlay",
+            "abitype": "AVaultForStarlay",
+            "swaplink": "https://starlay.finance/app",
+            "vault": {
+              "vaultsymbol": "asASTR",
+              "wantaddresssymbol": "ASTR",
+              "name": "Avault Starlay ASTR",
+              "wantaddress": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedaddresssymbol": "LAY",
+              "avaaddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          },
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "astar",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappname": "Starlay",
+            "abitype": "AVaultForStarlay",
+            "swaplink": "https://starlay.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDC",
+              "wantaddresssymbol": "USDC",
+              "name": "Avault Starlay USDC",
+              "wantaddress": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedaddresssymbol": "LAY",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "astar",
+            "contractAddress": "0x58d65c68Fb2904d9e1e185042ae76E78ff0F1980",
+            "dappname": "Starlay",
+            "abitype": "AVaultForStarlay",
+            "swaplink": "https://starlay.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDT",
+              "wantaddresssymbol": "USDT",
+              "name": "Avault Starlay USDT",
+              "wantaddress": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedaddresssymbol": "LAY",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          }
+        ]
+      },
+      {
+        "dappname": "Arthswap",
+        "contract": [
+          {
+            "vaulttype": 2,
+            "eventtype": 1,
+            "chainkey": "astar",
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "dappname": "Arthswap",
+            "abitype": "AVaultForArthswapFarm",
+            "swaplink": "https://app.arthswap.org/#/add/",
+            "vault": {
+              "wantaddresssymbol": "BAI-USDC LP",
+              "vaultsymbol": "aBaiUsdc",
+              "name": "avault Arthswap BAI-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantaddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedaddresssymbol": "ARSW",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          },
+          {
+            "vaulttype": 2,
+            "eventtype": 1,
+            "chainkey": "astar",
+            "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
+            "dappname": "Arthswap",
+            "abitype": "AVaultForArthswapFarm",
+            "swaplink": "https://app.arthswap.org/#/add/",
+            "vault": {
+              "wantaddresssymbol": "DAI-USDC LP",
+              "vaultsymbol": "aDaiUsdc",
+              "name": "avault Arthswap DAI-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "token1Address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+              "wantaddress": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedaddresssymbol": "ARSW",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "tokenDecimals": 18,
+              "token": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "ethereum": {
+    "status": 1,
+    "chain": "ethereum",
+    "dapp": [
+      {
+        "dappname": "AAVE",
+        "contract": [
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "ethereum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappname": "AAVE",
+            "abitype": "AVaultForAAVE",
+            "swaplink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDC",
+              "wantaddresssymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantaddress": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedaddresssymbol": "AAVE",
+              "avaaddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          },
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "ethereum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappname": "AAVE",
+            "abitype": "AVaultForAAVE",
+            "swaplink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDT",
+              "wantaddresssymbol": "USDT",
+              "name": "Avault AAVE USDT",
+              "wantaddress": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedaddresssymbol": "AAVE",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          }
+        ]
+      },
+      {
+        "dappname": "Curve",
+        "contract": [
+          {
+            "vaulttype": 2,
+            "eventtype": 1,
+            "chainkey": "ethereum",
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "dappname": "Curve",
+            "abitype": "AVaultForCurveFarm",
+            "swaplink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantaddresssymbol": "ETH-stETH LP",
+              "vaultsymbol": "aBaiUsdc",
+              "name": "avault Curve ETH-stETH LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+              "token1Address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+              "wantaddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedaddresssymbol": "CRV",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          },
+          {
+            "vaulttype": 2,
+            "eventtype": 2,
+            "chainkey": "ethereum",
+            "contractAddress": "0x9914Bff0437f914549c673B34808aF6020e2B453",
+            "dappname": "Curve",
+            "abitype": "AVaultForCurveFarm",
+            "swaplink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantaddresssymbol": "FRAX-USDC LP",
+              "vaultsymbol": "aDaiUsdc",
+              "name": "avault Curve FRAX-USDC LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+              "token1Address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
+              "wantaddress": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedaddresssymbol": "CRV",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x996D73aC8F97cf15BD476b77CB92ce47cA0E71Fe",
+              "tokenDecimals": 18,
+              "token": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          },
+          {
+            "vaulttype": 2,
+            "eventtype": 3,
+            "chainkey": "ethereum",
+            "contractAddress": "0xDBd71969aC2583A9A20Af3FB81FE9C20547f30F3",
+            "dappname": "Curve",
+            "abitype": "AVaultForCurveFarm",
+            "swaplink": "https://app.Curve.org/#/add/",
+            "vault": {
+              "wantaddresssymbol": "MIM-3Crv LP",
+              "vaultsymbol": "aBaiUsdc",
+              "name": "avault Curve MIM-3Crv LP",
+              "masterChef": "0xc5b016c5597D298Fe9eD22922CE290A048aA5B75",
+              "token0Address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+              "token1Address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+              "wantaddress": "0x7644bf8086d40ed430d5096305830aa97be77268",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xDe2578Edec4669BA7F41c5d5D2386300bcEA4678",
+              "earnedaddresssymbol": "CRV",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 18
+            },
+            "farm": {
+              "pid": 14,
+              "lpSymbol": "ARSW-LP",
+              "lpAddresses": "0x7644Bf8086d40eD430D5096305830aA97Be77268",
+              "tokenDecimals": 18,
+              "token": "0x733ebcC6DF85f8266349DEFD0980f8Ced9B45f35",
+              "quoteTokenDecimals": 6,
+              "quoteToken": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "arbitrum": {
+    "status": 1,
+    "chain": "arbitrum",
+    "dapp": [
+      {
+        "dappname": "GMX",
+        "contract": [
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "arbitrum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappname": "GMX",
+            "abitype": "AVaultForGMX",
+            "swaplink": "https://gmx.finance/app",
+            "vault": {
+              "vaultsymbol": "asGLP",
+              "wantaddresssymbol": "GLP",
+              "name": "Avault gmx GLP",
+              "wantaddress": "0x74df46d231ae3797a72e6467ce59ac3a4eb7d124",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedaddresssymbol": "GMX",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "arbitrum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappname": "GMX",
+            "abitype": "AVaultForGMX",
+            "swaplink": "https://gmx.finance/app",
+            "vault": {
+              "vaultsymbol": "asGMX",
+              "wantaddresssymbol": "GMX",
+              "name": "Avault gmx GMX",
+              "wantaddress": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedaddresssymbol": "GMX",
+              "avaaddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          }
+        ]
+      },
+      {
+        "dappname": "AAVE",
+        "contract": [
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "arbitrum",
+            "contractAddress": "0x070852960efdAE9E49c674A16346489C6EcccE97",
+            "dappname": "AAVE",
+            "abitype": "AVaultForAAVE",
+            "swaplink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultsymbol": "asWETH",
+              "wantaddresssymbol": "WETH",
+              "name": "Avault AAVE WETH",
+              "wantaddress": "0x765277eebeca2e31912c9946eae1021199b39c61",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0xc4335B1b76fA6d52877b3046ECA68F6E708a27dd",
+              "earnedaddresssymbol": "AAVE",
+              "avaaddress": "0x03065E84748a9e4a1AEbef15AC89da1Cdf18B202",
+              "decimals": 6
+            }
+          },
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "arbitrum",
+            "contractAddress": "0xaDa80a67eADEc6E06c77Fd596F5368e1463898B9",
+            "dappname": "AAVE",
+            "abitype": "AVaultForAAVE",
+            "swaplink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDC",
+              "wantaddresssymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantaddress": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
+              "wantaddressdecimals": 18,
+              "earnedaddress": "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd",
+              "earnedaddresssymbol": "AAVE",
+              "avaaddress": "0x03065e84748a9e4a1aebef15ac89da1cdf18b202",
+              "decimals": 18
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "optimism": {
+    "status": 1,
+    "chain": "optimism",
+    "dapp": [
+      {
+        "dappname": "AAVE",
+        "contract": [
+          {
+            "vaulttype": 1,
+            "eventtype": 0,
+            "chainkey": "optimism",
+            "contractAddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+            "dappname": "AAVE",
+            "abitype": "AVaultForAAVE",
+            "swaplink": "https://AAVE.finance/app",
+            "vault": {
+              "vaultsymbol": "asUSDC",
+              "wantaddresssymbol": "USDC",
+              "name": "Avault AAVE USDC",
+              "wantaddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "wantaddressdecimals": 6,
+              "earnedaddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "earnedaddresssymbol": "AAVE",
+              "avaaddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+              "decimals": 6
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
