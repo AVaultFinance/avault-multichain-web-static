@@ -1,7 +1,7 @@
 {
   "swap": {
-    "1inchswap": {
-      "name": "1inch swap",
+    "uniswap": {
+      "name": "uniswap",
       "percent": "0",
       "base_fee": "0.001",
       "min_fee": "0"
