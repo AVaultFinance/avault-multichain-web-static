@@ -78,7 +78,7 @@
             }
           },
           {
-            "vaulttype": 1,
+            "vaulttype": 2,
             "eventtype": 0,
             "chainkey": "optimism",
             "contractAddress": "0x99c192d657d3827a8bde853aecda24cd41d53eb9",
@@ -87,7 +87,7 @@
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "vaultsymbol": "aaETH",
-              "wantaddresssymbol": "USDC",
+              "wantaddresssymbol": "ETH",
               "name": "Avault AAVE ETH",
               "wantaddress": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
               "wantaddressdecimals": 18,
