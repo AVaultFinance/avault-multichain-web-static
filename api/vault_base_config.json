@@ -7,7 +7,7 @@
         "dappname": "AAVE",
         "contract": [
           {
-            "vaulttype": 3,
+            "vaulttype": 1,
             "eventtype": 0,
             "chainkey": "arbitrum",
             "contractAddress": "0x603b5383d1f701c120d4a8e24f2daccef30b80b4",
@@ -27,7 +27,7 @@
             }
           },
           {
-            "vaulttype": 1,
+            "vaulttype": 3,
             "eventtype": 0,
             "chainkey": "arbitrum",
             "contractAddress": "0x99c192d657d3827a8bde853aecda24cd41d53eb9",
