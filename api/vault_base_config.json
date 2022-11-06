@@ -15,8 +15,8 @@
             "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
-              "vaultsymbol": "aaETH",
-              "wantaddresssymbol": "aeWETH",
+              "vaultsymbol": "ETH",
+              "wantaddresssymbol": "ETH",
               "name": "Avault Aave ETH",
               "wantaddress": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
               "wantaddressdecimals": 18,
@@ -35,7 +35,7 @@
             "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
-              "vaultsymbol": "aaUSDC",
+              "vaultsymbol": "USDC",
               "wantaddresssymbol": "USDC",
               "name": "Avault Aave USDC",
               "wantaddress": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
@@ -66,7 +66,7 @@
             "abitype": "AVaultForAAVE",
             "swaplink": "https://AAVE.finance/app",
             "vault": {
-              "vaultsymbol": "aaUSDC",
+              "vaultsymbol": "USDC",
               "wantaddresssymbol": "USDC",
               "name": "Avault AAVE USDC",
               "wantaddress": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
@@ -87,8 +87,8 @@
             "swaplink": "https://AAVE.finance/app",
             "vault": {
               "name": "Avault AAVE ETH",
-              "vaultsymbol": "aaETH",
-              "wantaddresssymbol": "aOptWETH",
+              "vaultsymbol": "ETH",
+              "wantaddresssymbol": "ETH",
               "wantaddress": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
               "wantaddressdecimals": 18,
               "earnedaddress": "-",
