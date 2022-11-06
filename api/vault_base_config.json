@@ -89,7 +89,7 @@
               "name": "Avault AAVE ETH",
               "vaultsymbol": "AAETH",
               "wantaddresssymbol": "ETH",
-              "wantaddress": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
+              "wantaddress": "0x4200000000000000000000000000000000000006",
               "wantaddressdecimals": 18,
               "earnedaddress": "-",
               "earnedaddresssymbol": "-",
