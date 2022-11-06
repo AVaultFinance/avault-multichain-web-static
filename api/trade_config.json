@@ -8,18 +8,18 @@
     }
   },
   "bridge": {
-    "multi": {
-      "key": "multi",
-      "name": "multichain bridge",
+    "stargate": {
+      "key": "stargate",
+      "name": "stargate bridge",
       "percent": "0.0001",
       "base_fee": "0",
-      "min_fee": "5"
+      "min_fee": "0"
     },
     "hop": {
       "key": "hop",
       "name": "hop exchange",
       "percent": "0.001",
-      "base_fee": "5",
+      "base_fee": "0",
       "min_fee": "0"
     }
   }
