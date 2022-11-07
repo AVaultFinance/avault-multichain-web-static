@@ -1,7 +1,7 @@
 {
   "arbitrum": [
     {
-      "symbol": "AETH",
+      "symbol": "ETH",
       "address": "",
       "decimals": 18
     },
@@ -43,7 +43,7 @@
   ],
   "optimism": [
     {
-      "symbol": "OETH",
+      "symbol": "ETH",
       "address": "",
       "decimals": 18
     },
