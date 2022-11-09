@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" class="design-iconfont">
+  <defs>
+    <linearGradient x1="85.6293072%" y1="79.366706%" x2="14.914734%" y2="18.1539498%" id="slhnxs6tm__tqhgyo68ca">
+      <stop stop-color="#030222" stop-opacity="0" offset="0%"/>
+      <stop stop-color="#AEABFC" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="49.724104%" y1="100%" x2="49.724104%" y2=".63002987%" id="slhnxs6tm__k8hcczxp6b">
+      <stop stop-color="#030222" stop-opacity="0" offset="0%"/>
+      <stop stop-color="#AEABFC" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="slhnxs6tm__4cnemqwmmc">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-color="#FFF" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="12.6247533%" y1="18.8597272%" x2="79.0603325%" y2="86.1483826%" id="slhnxs6tm__qnrm5j1mbd">
+      <stop stop-color="#20D4A9" offset="0%"/>
+      <stop stop-color="#A428D0" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="url(#slhnxs6tm__tqhgyo68ca)" d="M22 0A22 22 0 1 0 22 44A22 22 0 1 0 22 0Z"/>
+    <rect fill="url(#slhnxs6tm__k8hcczxp6b)" transform="rotate(-45 33.818213 43.964816)" x="30.8182128" y="29.9648158" width="6" height="28" rx="3"/>
+    <rect fill="url(#slhnxs6tm__4cnemqwmmc)" transform="rotate(-45 35.818213 29.964816)" x="32.8182128" y="15.9648158" width="6" height="28" rx="3"/>
+    <path fill="url(#slhnxs6tm__qnrm5j1mbd)" d="M48 36A12 12 0 1 0 48 60A12 12 0 1 0 48 36Z"/>
+  </g>
+</svg>
