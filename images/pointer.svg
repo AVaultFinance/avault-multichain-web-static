@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 30" class="design-iconfont">
+  <defs>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="y5c4mte88__eqsf1r71pb">
+      <stop stop-color="#9733C9" offset="0%"/>
+      <stop stop-color="#65D1AB" stop-opacity="0" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="y5c4mte88__00yhtfxn5c">
+      <stop stop-color="#9733C9" offset="0%"/>
+      <stop stop-color="#65D1AB" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="y5c4mte88__qzl8irn5xe">
+      <stop stop-color="#65D1AB" offset="0%"/>
+      <stop stop-color="#9733C9" offset="100%"/>
+    </linearGradient>
+    <path id="y5c4mte88__hufjgcxp3a" d="M0 0H16V22H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(0 8)">
+      <mask id="y5c4mte88__58ug3o0ood" fill="#fff">
+        <use xlink:href="#y5c4mte88__hufjgcxp3a"/>
+      </mask>
+      <use fill="url(#y5c4mte88__eqsf1r71pb)" xlink:href="#y5c4mte88__hufjgcxp3a"/>
+      <path fill="url(#y5c4mte88__00yhtfxn5c)" mask="url(#y5c4mte88__58ug3o0ood)" d="M0 0L16 0 8.66666667 22 7.33333333 22z"/>
+    </g>
+    <path fill="url(#y5c4mte88__qzl8irn5xe)" d="M8 0A8 8 0 1 0 8 16A8 8 0 1 0 8 0Z"/>
+  </g>
+</svg>
